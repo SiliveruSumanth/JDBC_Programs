@@ -1,5 +1,5 @@
 import java.sql.*;
-public class ReadData {
+public class DESC {
     static String url="jdbc:mysql://localhost:3306/JDBC_1";
     static String user="root";
     static String pin="0053";
@@ -21,3 +21,4 @@ public class ReadData {
         }
     }
 }
+
